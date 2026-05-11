@@ -4,5 +4,25 @@ SCR_ChimeraCharacter : "{43ADEC6B9E11C59C}Prefabs/Characters/Factions/BLUFOR/RHS
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
    WeaponTemplate "{6B352DE0F3689FD9}Prefabs/Weapons/MachineGuns/M249/MG_FN_Minimi_M249E2_NoHandGuard_RCO_PEQ15.et"
   }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Jacket {
+     Prefab "{7A31BAAF2D74B8B4}Prefabs/Characters/Uniforms/Jacket_FROG_Combat_Shirt_Arid.et"
+    }
+    LoadoutSlotInfo Pants {
+     Prefab "{F6A9C2400BE103E4}Prefabs/Characters/Uniforms/Pants_FROG_Trousers_Arid.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{68E911A2E4988E7E}" {
+     TargetStorage "Pants/Pants_FROG_Trousers_Arid.et"
+    }
+    ItemsInitConfigurationItem "{68E91186842FDFDA}" {
+     TargetStorage "Jacket/Jacket_FROG_Combat_Shirt_Arid.et"
+    }
+   }
+  }
  }
 }

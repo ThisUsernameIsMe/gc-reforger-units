@@ -1,4 +1,4 @@
-SCR_ChimeraCharacter : "{7AEA5186DB627E37}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Woodland (BDU)/P/Character_US_1986_BDU_Mortar_Crew_P.et" {
+SCR_ChimeraCharacter : "{7AEA5186DB627E37}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_Mortar_Crew_P.et" {
  ID "520EC961A090B1EE"
  components {
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
@@ -14,6 +14,13 @@ SCR_ChimeraCharacter : "{7AEA5186DB627E37}Prefabs/Characters/Factions/BLUFOR/US_
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
    WeaponTemplate "{3E413771E1834D2F}Prefabs/Weapons/Rifles/M16/Rifle_M16A2.et"
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Back {
+     Prefab "{06B68C58B72EAAC6}Prefabs/Items/Equipment/Backpacks/Backpack_ALICE_Medium.et"
+    }
+   }
   }
  }
 }

@@ -9,7 +9,7 @@ SCR_ChimeraCharacter : "{9275A3F9875F9498}Prefabs/Characters/Factions/BLUFOR/CDF
    }
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
-   WeaponTemplate "{4D037FD67904B589}Prefabs/Weapons/MachineGuns/RPK74N/MG_RPK74N_Railed_1P87.et"
+   WeaponTemplate "{C41ABB4E598F6920}Prefabs/Weapons/MachineGuns/RPK74N/MG_RPK74N_Railed_eot.et"
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFDC}" {
    WeaponTemplate "{E998FA484B0C4BFF}Prefabs/Weapons/Handguns/Glock/Handgun_Glock17.et"

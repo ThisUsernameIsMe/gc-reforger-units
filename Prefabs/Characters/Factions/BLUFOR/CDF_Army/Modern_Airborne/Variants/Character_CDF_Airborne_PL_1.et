@@ -20,7 +20,7 @@ SCR_ChimeraCharacter : "{9275A3F9875F9498}Prefabs/Characters/Factions/BLUFOR/CDF
      Prefab "{A36613EAD646961D}Prefabs/Characters/HeadGear/Helmet_OPSCORE/Helmet_OPSCORE_XP_MC_AMP.et"
     }
     LoadoutSlotInfo Jacket {
-     Prefab "{85AB22BE00E4FF80}Prefabs/Characters/Uniforms/Jacket_PCU_L5/Jacket_PCU_L5_Green.et"
+     Prefab "{6032FED0F944E61B}Prefabs/Characters/Uniforms/Jacket_PCU_L5/Jacket_PCU_L5_Green.et"
     }
     LoadoutSlotInfo ArmoredVest {
      Prefab "{C1115AA90C004678}Prefabs/Characters/Vests/Vest_TV102/Vest_TV102_MC.et"

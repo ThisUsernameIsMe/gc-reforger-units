@@ -14,26 +14,26 @@ SCR_ChimeraCharacter : "{B6FA39F9989D92FE}Prefabs/Characters/Factions/BLUFOR/RHS
      Prefab "{C8E2AC206E2F5665}Prefabs/Characters/HeadGear/Helmet_ECH/Helmet_ECH_hc_v_r_p_cmc.et"
     }
     LoadoutSlotInfo Jacket {
-     Prefab "{E8EA7FFEFB072D20}Prefabs/Characters/Uniforms/Shirt_FROG/Shirt_FROG_Arid.et"
+     Prefab "{7A31BAAF2D74B8B4}Prefabs/Characters/Uniforms/Jacket_FROG_Combat_Shirt_Arid.et"
     }
     LoadoutSlotInfo Pants {
-     Prefab "{7D4D8F909FCE3A04}Prefabs/Characters/Uniforms/Pants_FROG/Pants_FROG_Arid.et"
+     Prefab "{F6A9C2400BE103E4}Prefabs/Characters/Uniforms/Pants_FROG_Trousers_Arid.et"
     }
    }
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{6063106E91310A3D}" {
-     TargetStorage "Pants/Pants_FROG_Arid.et"
+     TargetStorage "Pants/Pants_FROG_Trousers_Arid.et"
     }
     ItemsInitConfigurationItem "{651D048C906638EA}" {
-     TargetStorage "Jacket/Shirt_FROG_Arid.et"
+     TargetStorage "Jacket/Jacket_FROG_Combat_Shirt_Arid.et"
     }
     ItemsInitConfigurationItem "{652B48EE86F65FD5}" {
-     TargetStorage "Jacket/Shirt_FROG_Arid.et"
+     TargetStorage "Jacket/Jacket_FROG_Combat_Shirt_Arid.et"
     }
     ItemsInitConfigurationItem "{66B4211E199B8F9A}" {
-     TargetStorage "Jacket/Shirt_FROG_Arid.et"
+     TargetStorage "Jacket/Jacket_FROG_Combat_Shirt_Arid.et"
     }
    }
   }

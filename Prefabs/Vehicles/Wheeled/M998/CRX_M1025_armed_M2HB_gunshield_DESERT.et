@@ -9,6 +9,12 @@ Vehicle : "{DD774A8FD0989A78}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_MERD
     }
    }
   }
+  SCR_EditableVehicleComponent "{50DEB7C26B5EB312}" {
+   m_UIInfo SCR_EditableVehicleUIInfo "{5298E609432D192D}" {
+    Name "#AR-Vehicle_M1025_M2_Name w/ Shield Tan"
+    m_Image "{F03CD7481B7E9EE5}UI/Textures/EditorPreviews/Vehicles/m998/M1025_armed_M2HB_MDO_USAF_D.edds"
+   }
+  }
   SlotManagerComponent "{55BCE45E438E4CFF}" {
    Slots {
     RegisteringComponentSlotInfo Roof {

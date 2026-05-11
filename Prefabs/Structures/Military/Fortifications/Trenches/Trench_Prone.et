@@ -1,0 +1,13 @@
+StaticModelEntity : "{E04C8E7133043968}Prefabs/Structures/Core/Fortifications_Base.et" {
+ ID "5272E314F01B2DBE"
+ components {
+  MeshObject "{5272E314F6439B95}" {
+   Object "{1DF7560D5B81BE65}Assets/Structures/Military/Fortifications/Trenches/Trench_Prone.xob"
+  }
+  RigidBody "{5272E314F5AC4FE7}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 0x403 0x80000
+}
