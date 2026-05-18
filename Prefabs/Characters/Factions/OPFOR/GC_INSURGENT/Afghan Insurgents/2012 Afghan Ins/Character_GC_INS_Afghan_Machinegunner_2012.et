@@ -1,0 +1,12 @@
+SCR_ChimeraCharacter : "{1400710845635A54}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_Machinegunner.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Boots {
+     Prefab "{B12C47DF95EC9C17}Prefabs/Characters/Footwear/CombatBoots_Insurgents.et"
+    }
+   }
+  }
+ }
+}

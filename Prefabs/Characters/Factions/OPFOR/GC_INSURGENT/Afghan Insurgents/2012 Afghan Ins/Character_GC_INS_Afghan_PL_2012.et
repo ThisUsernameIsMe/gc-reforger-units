@@ -1,0 +1,21 @@
+SCR_ChimeraCharacter : "{EC724922472CA4FE}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_PL.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Jacket {
+     Prefab "{3CD30461D34096D1}Prefabs/Characters/Uniforms/Jacket_Parka/Jacket_Parka_3_Flecktarn.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{6554AEF73DCF4897}" {
+     PrefabsToSpawn + {
+      "{19D74C99726B69F3}Prefabs/Items/Equipment/Radios/Separatist/Radio_R148_Seperatist.et"
+     }
+    }
+   }
+  }
+ }
+}

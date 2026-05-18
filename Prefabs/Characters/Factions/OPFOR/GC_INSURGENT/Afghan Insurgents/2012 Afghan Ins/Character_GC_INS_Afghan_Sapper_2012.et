@@ -1,0 +1,15 @@
+SCR_ChimeraCharacter : "{656C3D2563E79F50}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_Sapper.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab ""
+    }
+    LoadoutSlotInfo Face {
+     Prefab "{7F65745CA4111DF2}Prefabs/Characters/HeadGear/Hat_FlatCap_01/Shemag_3.et"
+    }
+   }
+  }
+ }
+}

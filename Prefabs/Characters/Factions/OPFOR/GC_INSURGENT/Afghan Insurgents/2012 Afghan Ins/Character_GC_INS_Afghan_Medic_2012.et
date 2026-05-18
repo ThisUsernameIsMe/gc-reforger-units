@@ -1,0 +1,15 @@
+SCR_ChimeraCharacter : "{4897891FB9800F99}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_Medic.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{FE1A0DBBB4B3CB51}Prefabs/Characters/HeadGear/Hat_Patrol_US_01/Hat_Patrol_Cuba.et"
+    }
+    LoadoutSlotInfo Jacket {
+     Prefab "{B5DBF8CAE1C591CB}Prefabs/Characters/Uniforms/Jacket_Bomber_2.et"
+    }
+   }
+  }
+ }
+}

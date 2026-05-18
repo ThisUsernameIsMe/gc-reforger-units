@@ -1,0 +1,18 @@
+SCR_ChimeraCharacter : "{E5F99A8C0A000A59}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_Machinegunner_RPD.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{203EEA924B049EF1}Prefabs/Characters/Footwear/JungleBoots_01/JungleBoots_01.et"
+    }
+    LoadoutSlotInfo Jacket {
+     Prefab "{5047B433ED2006A0}Prefabs/Characters/Uniforms/Jacket_Bomber_3.et"
+    }
+    LoadoutSlotInfo Boots {
+     Prefab "{09E2F277F5B672E8}Prefabs/Characters/Footwear/Solomon_4dgtx.et"
+    }
+   }
+  }
+ }
+}

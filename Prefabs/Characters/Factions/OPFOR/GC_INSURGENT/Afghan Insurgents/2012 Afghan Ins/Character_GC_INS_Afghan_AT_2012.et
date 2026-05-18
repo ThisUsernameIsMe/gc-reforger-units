@@ -1,0 +1,25 @@
+SCR_ChimeraCharacter : "{C04C686511C62921}Prefabs/Characters/Factions/OPFOR/GC_INSURGENT/Afghan Insurgents/Character_GC_INS_Afghan_AT.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Jacket {
+     Prefab "{688C4289C3B91EF3}Prefabs/Characters/Uniforms/Jacket_M70_DPM_68.et"
+    }
+    LoadoutSlotInfo Pants {
+     Prefab "{453064B72F96629F}Prefabs/Characters/Uniforms/Pants_TrousersV2/Pants_TrousersV2_UCP.et"
+    }
+    LoadoutSlotInfo Boots {
+     Prefab "{057E63449502EBCA}Prefabs/Characters/Footwear/Boots_Salomon/Footwear_Salomon.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{6554AEF73DCF4897}" {
+     TargetStorage "Jacket/Jacket_M70_DPM_68.et"
+    }
+   }
+  }
+ }
+}
